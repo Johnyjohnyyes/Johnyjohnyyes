@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hillo pessoar comu vaum
+
+# [Johny] <img src=https://i.pinimg.com/originals/39/bd/5d/39bd5d16b25bc4a8c553bed7d92b0c85.gif width="380px">
+
+Eu sou <strong>João Antônio</strong>, <strong>gosto de jogos e de esportes e tbm gosto muito de filmes de ação e comédia</strong> 👨🏻‍💻 
+
+- 🚀 Atualmente estou aprendendo: <strong>html</strong> 
+- 💬 Pergunte-me sobre: <strong>usar instagram, jogar no celular, videogame etc</strong>
+- 📣 Nós podemos falar em: <strong>português(Brasil)</strong>
 
 <!--
 **Johnyjohnyyes/Johnyjohnyyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
