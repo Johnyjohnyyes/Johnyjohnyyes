@@ -1,6 +1,6 @@
 ### Opa, vai bem?
 
-# [Johny] <img src=https://i.pinimg.com/originals/39/bd/5d/39bd5d16b25bc4a8c553bed7d92b0c85.gif width="380px">
+# [Johnny] <img src=https://i.pinimg.com/originals/39/bd/5d/39bd5d16b25bc4a8c553bed7d92b0c85.gif width="380px">
 
 Eu sou <strong>João Antônio</strong>, <strong>gosto de jogos e de esportes e tbm gosto muito de filmes de ação e comédia</strong> 👨🏻‍💻 
 
