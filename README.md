@@ -4,7 +4,7 @@
 
 Eu sou <strong>João Antônio</strong>, <strong>gosto de jogos e de esportes e tbm gosto muito de filmes de ação e comédia</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>html</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>Terminando o Ensino Médio</strong> 
 - 💬 Pergunte-me sobre: <strong>usar instagram, jogar no celular, videogame etc</strong>
 - 📣 Nós podemos falar em: <strong>português(Brasil)</strong>
 
